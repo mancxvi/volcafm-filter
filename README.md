@@ -1,5 +1,9 @@
 # volca fm velocity filter
 
+## what
+
+this is a thing that sits between a midi controller and a korg volca fm. it will intercept note on messages and send a velocity control change alongside it so you can have velocity actually work with the volca fm from your keyboard
+
 ## parts
 
 - arduino (i used a pro mini because it's small and can be put in a box, they're like $2 on aliexpress)
