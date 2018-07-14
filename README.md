@@ -36,6 +36,7 @@ witness the magic as you have velocity data transmitted
 - add battery power
 - maybe add power that leeches from the midi out on your controller, idk. pull requests accepted!
 - take pictures, make a better schematic, maybe a step-by-step in the spirit of sharing and knowledge
+- more functionality? maybe, idk
 
 ## who
 will oberndorfer 2018
