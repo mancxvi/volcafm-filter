@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/will/.platformio/penv/bin:/Users/will/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/MacGPG2/bin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Users/will/.rbenv/shims:/Users/will/.pyenv/shims:/Users/will/.rbenv/bin:/opt/local/bin:/Users/will/bin:/Users/will/.gem/ruby/1.8/bin:/usr/local/mysql/bin:/opt/git/bin:/usr/texbin:/usr/sfw/bin:/usr/ccs/bin:/usr/local/sbin:/Applications/Postgres.app/Contents/Versions/9.4/bin:/Users/will/Library/Python/2.7/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
